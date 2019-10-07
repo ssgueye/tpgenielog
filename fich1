@@ -1,0 +1,6 @@
+echo "# tpgenielog" >> README.md 
+git init 
+git ajouter README.md 
+git commit -m "premier commit" 
+git remote ajouter origine https://github.com/ssgueye/tpgenielog.git
+ git push -u origine master
